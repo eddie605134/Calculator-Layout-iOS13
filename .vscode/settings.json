@@ -1,0 +1,4 @@
+{
+  "lldb.library": "/Users/eddiechang/Desktop/xcode15/Xcode_15.4.app/Contents/SharedFrameworks/LLDB.framework/Versions/A/LLDB",
+  "lldb.launch.expressions": "native"
+}
